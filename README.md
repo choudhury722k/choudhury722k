@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumya Ranjan Choudhury @choudhury722k
-- 👀 I’m interested in Embedded System and IOT along with ML and App Dev
+- 👀 I’m interested in Artificial intelligence and machine learing along with robotics and embedded systems developer.
 - 
 
 <!---
