@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Soumya Ranjan Choudhury @choudhury722k
 - Embedded ML Enthusiast
 - 
 
