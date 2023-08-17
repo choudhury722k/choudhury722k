@@ -12,9 +12,11 @@
         <samp>Developing Embedded ML solutions to solve practical challenges.</samp>
 </h3>
 
+
+
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,linux,matlab,octave,mysql,c,cpp,arduino,raspberrypi,tensorflow,pytorch,python,fastapi,flask,github,git,java,aws,docker,kubernetes&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ai,linux,matlab,octave,mysql,c,cpp,arduino,raspberrypi,tensorflow,pytorch,python,fastapi,flask,github,git,java,aws,docker,kubernetes,salesforce&perline=7" />
   </a>
 </p>
