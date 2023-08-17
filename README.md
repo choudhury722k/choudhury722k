@@ -13,9 +13,7 @@
 </h3>
 
 <h2 align="center">
-        <samp>&gt;My Techstacks
-        <b><a target="_blank" href="https://www.linkedin.com/in/srchoudhury7/">Soumya Ranjan Choudhury</a></b>
-        </samp>
+        ##My Techstacks
         <p align="center">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=ai,linux,matlab,octave,mysql,c,cpp,arduino,raspberrypi,tensorflow,pytorch,postman,fastapi,flask,github,git,java,aws,docker,kubernetes&perline=7" />
