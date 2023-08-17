@@ -9,5 +9,5 @@
 </p>
 
 <h3 align="center">
-        <samp>&gt; Developing Embedded ML solutions to solve practical challenges.</samp>
+        <samp>Developing Embedded ML solutions to solve practical challenges.</samp>
 </h3>
