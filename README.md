@@ -16,3 +16,5 @@
     <img src="https://skillicons.dev/icons?i=ai,linux,matlab,octave,mysql,c,cpp,arduino,raspberrypi,tensorflow,pytorch,python,fastapi,flask,github,git,java,aws,docker,kubernetes&perline=7" />
   </a>
 </p>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JAYKALIA007.visitor-badge)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
