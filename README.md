@@ -11,3 +11,9 @@
 <h3 align="center">
         <samp>Developing Embedded ML solutions to solve practical challenges.</samp>
 </h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,linux,matlab,octave,mysql,c,cpp,arduino,raspberrypi,tensorflow,pytorch,postman,fastapi,flask,github,git,java,aws,docker,kubernetes," />
+  </a>
+</p>
